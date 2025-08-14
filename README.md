@@ -224,11 +224,6 @@ npm run test:coverage
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Lacy Morrow** - *Initial work* - [shipkit-io](https://github.com/shipkit-io)
-- **Amila Welihinda** - *Contributor* - [amilajack](https://github.com/amilajack)
-
 ## 🙏 Acknowledgments
 
 - Built on [electron-bones](https://github.com/shipkit-io/electron-bones) boilerplate
